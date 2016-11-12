@@ -1,0 +1,2 @@
+UI Theme: One Dark
+Syntax Theme: Atom Material
