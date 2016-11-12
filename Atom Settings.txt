@@ -1,2 +1,2 @@
-UI Theme: One Dark
+UI Theme: Pristine-UI
 Syntax Theme: Atom Material
